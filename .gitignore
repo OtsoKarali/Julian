@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Poetry
+poetry.lock
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data
+*.parquet
+*.db
+*.sqlite
+*.h5
+*.csv
+/data/
+
+# Docker
+*.pid
+*.log
+docker/
+
+# VSCode
+.vscode/
+
+# OS
+.DS_Store
+
+# Test
+.coverage
+htmlcov/
+
+# Sphinx
+/docs/_build/ 

@@ -1,0 +1,5 @@
+deployments:
+  - name: daily_prices
+    flow: packages/orchestration/flows/prices.py
+    schedule:
+      cron: "15 9 * * 1-5" 
