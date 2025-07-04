@@ -17,11 +17,11 @@ A next-generation, open quant research platform for portfolio analytics, ML expl
 
 ## 🖼️ Screenshots
 
-> _Add your own screenshots below!_
+<p align="center">
+  <img src="docs/screenshots/screenshot.png" alt="Equity Curve Dashboard Screenshot" width="90%"/>
+</p>
 
-| Equity Curve & Metrics | Portfolio Allocations | SHAP Explain |
-|-----------------------|----------------------|--------------|
-| ![Equity Curve](docs/screenshots/equity_curve.png) | ![Allocations](docs/screenshots/allocations.png) | ![SHAP](docs/screenshots/shap.png) |
+<p align="center"><i>Interactive Equity Curve & Metrics Dashboard</i></p>
 
 ---
 
