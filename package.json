@@ -1,0 +1,22 @@
+{
+  "name": "julian-quant-platform",
+  "version": "0.1.0",
+  "description": "Production-ready quant research platform",
+  "scripts": {
+    "dev": "npm run dev --prefix web-frontend",
+    "dev:all": "npm run dev:all --prefix web-frontend",
+    "build": "npm run build --prefix web-frontend",
+    "start": "npm run start --prefix web-frontend",
+    "lint": "npm run lint --prefix web-frontend",
+    "backend": "PYTHONPATH=$(pwd) python -m uvicorn api_backend.main:app --reload --port 8000"
+  },
+  "dependencies": {
+    "@chakra-ui/icons": "^2.2.4",
+    "@chakra-ui/react": "^3.21.1",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
+    "@types/react-plotly.js": "^2.6.3",
+    "framer-motion": "^12.23.0",
+    "react-icons": "^5.5.0"
+  }
+}
