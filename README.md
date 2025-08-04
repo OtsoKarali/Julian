@@ -1,9 +1,5 @@
 # Julian Quant Platform
 
-Welcome to my quant playground. This is the result of countless hours, late nights, and a stubborn refusal to settle for boring dashboards. I built Julian for myself, but if you're a quant, dev, or just someone who loves beautiful data, you'll probably dig it too.
-
----
-
 ## What is Julian?
 
 Julian is a modern, modular quant research and trading platform. It's not just another analytics tool—it's my personal research lab, trading cockpit, and a canvas for building, testing, and visualizing real strategies. Every pixel and API call is here because I wanted it to be.
